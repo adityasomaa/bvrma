@@ -16,6 +16,9 @@ export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
 
+// TODO: revisit once next-intl 4.x upgrade is done; force dynamic to skip prerender error
+export const dynamic = "force-dynamic";
+
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://bvrma.org"),
   title: {
