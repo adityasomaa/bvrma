@@ -1,0 +1,88 @@
+{
+  "site": {
+    "name": "BVRMA",
+    "tagline": "Bali Villa Rental Management Association",
+    "ctaPrimary": "Get Tickets",
+    "ctaSecondary": "Learn More"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "event": "Bali Villa Connect 2026",
+    "members": "Members",
+    "news": "News",
+    "updates": "Updates",
+    "events": "Events",
+    "jobAds": "Job Ads",
+    "gallery": "Gallery",
+    "sponsors": "Sponsors",
+    "sustainability": "Sustainability",
+    "boardCommittee": "Board & Committee",
+    "joinNow": "Join Now",
+    "contact": "Contact",
+    "merchandise": "Merchandise"
+  },
+  "home": {
+    "heroEyebrow": "Bali Villa Connect 2026",
+    "heroTitle": "The Epicenter of Villa Excellence",
+    "heroSubtitle": "Discover the future of Bali's vacation rental market. Connect with industry leaders.",
+    "heroCta": "Get Your Pass",
+    "aboutEyebrow": "About Bali Villa Connect",
+    "aboutTitle": "Bridging Legacy and Innovation",
+    "aboutBody": "Bali Villa Connect (BVC) brings together villa owners, operators, and industry leaders for two days of insights, networking, and forward-looking conversations about Bali's premier hospitality category.",
+    "stats": {
+      "attendees": "Expected attendees",
+      "speakers": "Industry experts",
+      "format": "B2B trade event"
+    },
+    "whyAttendTitle": "Why Attend Bali Villa Connect",
+    "venueTitle": "Venue Experience",
+    "venueSubtitle": "The Grand Stage",
+    "pricingTitle": "Pricing",
+    "pricingSubtitle": "Ticket Tiers",
+    "tiers": {
+      "earlyBird": "Early Bird Regular",
+      "vip": "VIP",
+      "vvip": "VVIP"
+    },
+    "speakersTitle": "The Speakers",
+    "speakersSubtitle": "Meet the Industry Visionaries",
+    "galaTitle": "Gala Dinner",
+    "galaSubtitle": "The Exclusive One-Time Gala Dinner",
+    "mediaPartnerTitle": "Media Partners",
+    "committeeTitle": "Committee",
+    "sponsorTitle": "Sponsors"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "newsletter": "Stay Updated",
+    "newsletterDesc": "Subscribe for event updates and member news.",
+    "newsletterCta": "Subscribe",
+    "rights": "All rights reserved.",
+    "address": "Bali, Indonesia"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "intro": "Have a question? Send us a message — we'll respond within 1-2 business days.",
+    "name": "Full name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "successTitle": "Thank you!",
+    "successBody": "Your message has been sent. We'll get back to you soon.",
+    "errorTitle": "Something went wrong",
+    "errorBody": "Please try again or email us directly."
+  },
+  "common": {
+    "readMore": "Read more",
+    "viewAll": "View all",
+    "loading": "Loading...",
+    "comingSoon": "Coming soon",
+    "language": "Language",
+    "english": "English",
+    "indonesian": "Bahasa Indonesia",
+    "theme": "Theme"
+  }
+}

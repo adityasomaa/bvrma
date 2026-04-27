@@ -1,0 +1,88 @@
+{
+  "site": {
+    "name": "BVRMA",
+    "tagline": "Bali Villa Rental Management Association",
+    "ctaPrimary": "Beli Tiket",
+    "ctaSecondary": "Pelajari Lebih Lanjut"
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "event": "Bali Villa Connect 2026",
+    "members": "Anggota",
+    "news": "Berita",
+    "updates": "Pembaruan",
+    "events": "Acara",
+    "jobAds": "Lowongan",
+    "gallery": "Galeri",
+    "sponsors": "Sponsor",
+    "sustainability": "Keberlanjutan",
+    "boardCommittee": "Pengurus & Komite",
+    "joinNow": "Daftar Sekarang",
+    "contact": "Kontak",
+    "merchandise": "Merchandise"
+  },
+  "home": {
+    "heroEyebrow": "Bali Villa Connect 2026",
+    "heroTitle": "Pusat Keunggulan Villa di Bali",
+    "heroSubtitle": "Temukan masa depan pasar persewaan villa Bali. Terhubung dengan para pemimpin industri.",
+    "heroCta": "Dapatkan Tiket Anda",
+    "aboutEyebrow": "Tentang Bali Villa Connect",
+    "aboutTitle": "Menjembatani Warisan dan Inovasi",
+    "aboutBody": "Bali Villa Connect (BVC) mempertemukan pemilik villa, operator, dan tokoh industri selama dua hari berisi wawasan, networking, dan diskusi visioner tentang kategori perhotelan unggulan Bali.",
+    "stats": {
+      "attendees": "Perkiraan peserta",
+      "speakers": "Pakar industri",
+      "format": "Acara dagang B2B"
+    },
+    "whyAttendTitle": "Mengapa Hadir di Bali Villa Connect",
+    "venueTitle": "Pengalaman Venue",
+    "venueSubtitle": "Panggung Megah",
+    "pricingTitle": "Harga",
+    "pricingSubtitle": "Pilihan Tiket",
+    "tiers": {
+      "earlyBird": "Early Bird Reguler",
+      "vip": "VIP",
+      "vvip": "VVIP"
+    },
+    "speakersTitle": "Para Pembicara",
+    "speakersSubtitle": "Bertemu Para Visioner Industri",
+    "galaTitle": "Gala Dinner",
+    "galaSubtitle": "Gala Dinner Eksklusif Sekali Seumur Hidup",
+    "mediaPartnerTitle": "Media Partner",
+    "committeeTitle": "Komite",
+    "sponsorTitle": "Sponsor"
+  },
+  "footer": {
+    "quickLinks": "Tautan Cepat",
+    "newsletter": "Dapatkan Update",
+    "newsletterDesc": "Berlangganan untuk update acara dan berita anggota.",
+    "newsletterCta": "Berlangganan",
+    "rights": "Hak cipta dilindungi.",
+    "address": "Bali, Indonesia"
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "intro": "Ada pertanyaan? Kirim pesan — kami akan membalas dalam 1-2 hari kerja.",
+    "name": "Nama lengkap",
+    "email": "Email",
+    "subject": "Subjek",
+    "message": "Pesan",
+    "submit": "Kirim Pesan",
+    "sending": "Mengirim...",
+    "successTitle": "Terima kasih!",
+    "successBody": "Pesan Anda terkirim. Kami akan segera membalas.",
+    "errorTitle": "Terjadi kesalahan",
+    "errorBody": "Silakan coba lagi atau email kami langsung."
+  },
+  "common": {
+    "readMore": "Selengkapnya",
+    "viewAll": "Lihat Semua",
+    "loading": "Memuat...",
+    "comingSoon": "Segera hadir",
+    "language": "Bahasa",
+    "english": "English",
+    "indonesian": "Bahasa Indonesia",
+    "theme": "Tema"
+  }
+}
