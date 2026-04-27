@@ -1,15 +1,16 @@
 /**
  * Sanity Studio mounted at /studio
  * Editors visit https://bvrma.org/studio to log in and manage content.
+ *
+ * This file stays a Server Component so it can re-export `metadata`
+ * and `viewport` from `next-sanity/studio`. The actual <NextStudio>
+ * runtime is rendered inside a Client Component wrapper.
  */
-"use client";
-
-import { NextStudio } from "next-sanity/studio";
-import config from "../../../../sanity.config";
+import { Studio } from "./Studio";
 
 export const dynamic = "force-static";
 export { metadata, viewport } from "next-sanity/studio";
 
 export default function StudioPage() {
-  return <NextStudio config={config} />;
+    return <Studio />;
 }
